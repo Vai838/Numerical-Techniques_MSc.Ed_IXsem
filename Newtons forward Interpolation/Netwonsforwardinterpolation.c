@@ -67,4 +67,4 @@ int main() {
     return 0;
 }
 
-/*Credits to Mohammed Bin Shakir and ChatGPT*/
+/*Credits to Mohammed Bin Shakir*/
